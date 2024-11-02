@@ -65,7 +65,7 @@ Gestión de Películas: Permite al administrador añadir nuevas películas y aso
 Gestión de Horarios: Los horarios se pueden crear y modificar según la disponibilidad de las salas y películas.
 ## Instalación y Ejecución:
 Clonar el repositorio:
-git clone https://github.com/AgustinAchagaPerez/proyecto-cine-backend.git
+git clone [https://github.com/AgustinAchagaPerez/proyecto-cine-backend.git](https://github.com/RicardoAlvarez1980/proyecto-cine-backend)
 Navegar a la carpeta del proyecto:
 cd proyecto-cine-backend
 Instalar las dependencias:
@@ -193,6 +193,8 @@ Reservation.js:
 Representa una reserva de butacas.
 Incluye información sobre el usuario, las butacas seleccionadas y el horario reservado.
 ## Contribuciones:
-Si deseas contribuir a este proyecto, por favor haz un fork del repositorio y envía un pull request.#   p r o y e c t o - c i n e - b a c k e n d  
- #   p r o y e c t o - c i n e - b a c k e n d  
+Si deseas contribuir a este proyecto, por favor haz un fork del repositorio y envía un pull request.#   p r o y e c t o - c i n e - b a c k e n d 
+ 
+ #   p r o y e c t o - c i n e - b a c k e n d 
+ 
  
