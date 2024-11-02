@@ -65,7 +65,7 @@ Gestión de Películas: Permite al administrador añadir nuevas películas y aso
 Gestión de Horarios: Los horarios se pueden crear y modificar según la disponibilidad de las salas y películas.
 ## Instalación y Ejecución:
 Clonar el repositorio:
-git clone [https://github.com/AgustinAchagaPerez/proyecto-cine-backend.git](https://github.com/RicardoAlvarez1980/proyecto-cine-backend)
+git clone https://github.com/RicardoAlvarez1980/proyecto-cine-backend
 Navegar a la carpeta del proyecto:
 cd proyecto-cine-backend
 Instalar las dependencias:
